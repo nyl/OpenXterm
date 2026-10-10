@@ -1,0 +1,16 @@
+# Build directory and compiler outputs
+build/
+bin/
+out/
+
+# Qt & CMake cache/generated files
+.qt/
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+
+# OS / Editor settings
+.DS_Store
+.vscode/
+*.user
