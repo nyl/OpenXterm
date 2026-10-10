@@ -1,6 +1,8 @@
-# OpenXtermQt
+# OpenXterm
 
-Linux-first Qt 6 rewrite of OpenXterm with Windows-ready architecture.
+An open-source, lightweight alternative to MobaXterm for Linux, focused on essential remote session management (SSH & VNC).
+
+![OpenXterm UI Preview](assets/screenshot.png)
 
 ## Current status
 - Widgets-based shell scaffold implemented
